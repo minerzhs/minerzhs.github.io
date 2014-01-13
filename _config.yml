@@ -1,12 +1,12 @@
-title:        Sanvi Lu
-tagline:      "Sanvi 的小屋"
-url:          http://sanvibyfish.github.io
+title:        MineR.矿工
+tagline:      "勤劳的矿工一直在挖矿"
+url:          http://www.zuohaisu.cn
 author:
-  name:       "Sanvi Lu"
-  email:      "sanvibyfish@gmail.com"
-  avatar:     "https://1.gravatar.com/avatar/ea7613ac0b30a805f357b42bd2e1923c?s=440"
+  name:       "Haisu Zuo"
+  email:      "zuohaisu@gmail.com"
+  avatar:     ""
 markdown:     rdiscount
 permalink: /posts/:title
 pygments:     true
 paginate:     5
-disqus_name: sanvibyfish
+disqus_name: minerzhs
