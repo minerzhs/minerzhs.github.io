@@ -4,7 +4,7 @@ url:          http://www.zuohaisu.cn
 author:
   name:       "Haisu Zuo"
   email:      "zuohaisu@gmail.com"
-  avatar:     ""
+  avatar:     "http://a.disquscdn.com/uploads/users/9045/3987/avatar92.jpg?1389630492"
 markdown:     rdiscount
 permalink: /posts/:title
 pygments:     true
