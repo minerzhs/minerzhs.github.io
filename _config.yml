@@ -8,7 +8,7 @@ url:              http://localhost:4000
 owner:  
   name:           Haisu Zuo
   avatar:         avatar.jpg
-  bio:            "牵手生命线就交错"
+  bio:            "勤劳的矿工一直在挖矿"
   email:          zuohaisu@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        zuohaisu
@@ -20,7 +20,7 @@ owner:
   flickr:         
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:   zuohaisu
+  google_plus:   
 
 # Background image to be tiled on all pages
 background: ps_neutral.png
