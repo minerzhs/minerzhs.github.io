@@ -1,8 +1,8 @@
 title:            MineR.矿工
-description:      勤劳的矿工一直在挖矿.
+description:      勤劳的矿工一直在挖矿
 disqus_shortname: minerzhs
 #Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://www.zuohaisu.cn
+url:              http://zuohaisu.cn
 
 # Owner/author information
 owner:  
@@ -47,7 +47,7 @@ pygments:    true
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title
+permalink:   /:categories/:year/:month/:day/:title
 
 # Amount of post to show on home page
 paginate: 5
