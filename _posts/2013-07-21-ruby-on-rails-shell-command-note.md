@@ -6,9 +6,10 @@ modified: 2013-07-21
 tags: [开发, ruby, rails, shell, 菜鸟]
 comments: true
 share: true
+categories: post
 ---
 
-{% highlight ruby %}
+{% highlight bash %}
 #查看版本号，order可以是任何命令，包括rvm，ruby，bundler，rails，gem等
 order -v
 #打开项目目录下的gemfile文件，将第一行的gem位置改为”http://ruby.taobao.org”，并运行下面的代码

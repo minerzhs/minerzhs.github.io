@@ -7,6 +7,7 @@ tags: [产品经理]
 image:
 comments: true
 share: true
+categories: post
 ---
 
 今天早晨产品经理提出了一个大胆的方案推进移动端产品用户系统的布局：在用户启动软件的时候，就展示登录界面，由此强化帐号概念。

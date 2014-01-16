@@ -6,6 +6,7 @@ modified: 2013-05-31
 tags: [产品经理]
 comments: true
 share: true
+categories: post
 ---
 
 1. 写足够多的文档

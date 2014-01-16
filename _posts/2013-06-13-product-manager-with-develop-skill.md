@@ -6,6 +6,7 @@ modified: 2014-06-13
 tags: [产品经理, 开发]
 comments: true
 share: true
+categories: post
 ---
 
 不记得是哪里看到过的一句话：“不听摇滚的程序猿不是好产品经理”。

@@ -6,6 +6,7 @@ modified: 2013-06-04
 tags: [产品经理]
 comments: true
 share: true
+categories: post
 ---
 
 产品经理的责任可大可小，在这里说的是为了产品成功的责任。产品经理的权利可有可无，在这里说的是为了扛起责任的权利。

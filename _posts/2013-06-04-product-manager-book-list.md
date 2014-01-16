@@ -6,6 +6,7 @@ modified: 2014-01-15
 tags: [产品经理]
 comments: true
 share: true
+categories: post
 ---
 
 1. [About Face 3 交互设计精髓](http://book.douban.com/subject/3279105/) [英文原版](http://book.douban.com/subject/2020442/)
