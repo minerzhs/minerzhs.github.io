@@ -2,7 +2,7 @@ title:            MineR.矿工
 description:      勤劳的矿工一直在挖矿
 disqus_shortname: minerzhs
 #Your site's domain goes here. Leave localhost server or blank when working locally.
-
+url:           zuohaisu.cn
 # Owner/author information
 owner:  
   name:           Haisu Zuo
@@ -33,8 +33,6 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Archive
-    url: /archive/
   - title: 矿山@Loft
     url: http://lofter.zuohaisu.cn
     external: true
