@@ -14,5 +14,6 @@ share: true
 * [雪鸮的交互设计](http://xuexiao.me/)
 * [开场白](http://kaichangbai.ibookwish.com/)
 * [Sanvi Lu](http://sanvibyfish.github.io/)
+* [快玩团队](http://blog.kuaiwan.com/)
 
 *同行的人比去哪里更重要*
