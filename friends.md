@@ -15,5 +15,6 @@ share: true
 * [开场白](http://kaichangbai.ibookwish.com/)
 * [Sanvi Lu](http://sanvibyfish.github.io/)
 * [快玩团队](http://blog.kuaiwan.com/)
+* [玩物丧志](http://chunyunma.blog.sohu.com/)
 
 *同行的人比去哪里更重要*
