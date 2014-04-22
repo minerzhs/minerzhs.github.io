@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 社区型产品五要素分析工具
-description: "WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED"
+description: 
 modified: 2014-03-29
 tags: [产品经理, 社区, 原创, 总结]
 image:
