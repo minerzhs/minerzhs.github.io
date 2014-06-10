@@ -10,7 +10,7 @@ image:
 share: false
 ---
 
-###个人时间线
+###时间线
 
 + 2014年5月至今，从产品经理转型做程序开发，立志通过自己亲手打造的产品改变人民的生活，传播爱与希望。项目之一[“信+”](http://xin.io/)被[36kr报道](http://www.36kr.com/p/203549.html)。
 + 2011年7月 - 2014年5月，在某视频技术公司任产品经理，所属团队以[Scrum](http://zh.wikipedia.org/wiki/Scrum)开发风格打造了多款基于Web技术的功能性产品，对于社区型产品有独到的理解，可参考[《社区型产品五要素分析工具》](http://zuohaisu.cn/post/2014/03/29/community-framework/)。期间完成6项专利申报，4个为第一作者，2个为第二作者。
@@ -19,9 +19,10 @@ share: false
 + 2005年9月 - 2009年6月，获得[浙江大学](http://www.zju.edu.cn/)授予的理学学士学位，专业为应用心理学。
 
 ---
-###联系方式
 
-- [Email](mailto:zuohaisu@gmail.com)  
+####联系方式
+
+- [zuohaisu@gmail.com](mailto:zuohaisu@gmail.com)  
 - [Linkedin](http://www.linkedin.com/in/zuohaisu)  
 - [Github](https://github.com/minerzhs)  
 - 微信二维码  
