@@ -10,27 +10,22 @@ image:
 share: false
 ---
 
-*Your life can be what you want it to be 你能够主宰你的自己的生活*
+###个人时间线
 
-## About Me 自我介绍
++ 2014年5月至今，从产品经理转型做程序开发，立志通过自己亲手打造的产品改变人民的生活，传播爱与希望。项目之一[“信+”](http://xin.io/)被[36kr报道](http://www.36kr.com/p/203549.html)。
++ 2011年7月 - 2014年5月，在某视频技术公司任产品经理，所属团队以[Scrum](http://zh.wikipedia.org/wiki/Scrum)开发风格打造了多款基于Web技术的功能性产品，对于社区型产品有独到的理解，可参考[《社区型产品五要素分析工具》](http://zuohaisu.cn/post/2014/03/29/community-framework/)。期间完成6项专利申报，4个为第一作者，2个为第二作者。
++ 2010年7月 - 2011年6月，获得[瑞典皇家工学院](http://www.kth.se/en)授予的理学硕士学位，专业为创新管理；求学期间创办Arcura AB公司，并获得瑞典外交部颁发的Global Swede荣誉称号[(受访视频，3分14秒@Youtube)](http://www.youtube.com/watch?v=BG4EQj1q9YY)。
++ 2009年7月 - 2010年6月，参与瑞典咨询公司[SXL Group](http://www.sxlgroup.com/)在中国的创立。
++ 2005年9月 - 2009年6月，获得[浙江大学](http://www.zju.edu.cn/)授予的理学学士学位，专业为应用心理学。
 
-I has been working in the Internet industry since 2011. Before the role of Product Manager at [Qvod Technology](http://www.qvod.com/), I acquired a MSc in Entreprenuership and Innovation Management at [KTH Royal Institution of Technology](http://www.kth.se/), Stockholm and a BSc in Applied Psychology at [Zhejiang University](http://www.zju.edu.cn/). Besides, I worked as Project Manager with [SXL Group](http://www.sxlgroup.com/) in Shanghai for one year.
+---
+###联系方式
 
-My crossover background between art, science, business and technology make me easy to cut into any industry thru different mindsets. My passion is to improve the daily life of human being with innovative solution and service. I initiated the hacker-style self-development in the end of 2013, after I realized my personality was not social-oritented even though I held a few social skills. I enjoy the status of focusing on complex issue and are willing to share the results with others.
+- [Email](mailto:zuohaisu@gmail.com)  
+- [Linkedin](http://www.linkedin.com/in/zuohaisu)  
+- [Github](https://github.com/minerzhs)  
+- 微信二维码  
+![微信](http://zuohaisu.cn/images/wechat-qr-code.png)
 
-{% highlight ruby linenos %}
-#Self.introduce
-def introduce
-  @me = Self.new
-  @me.name = "Haisu Zuo"
-  @me.age = "Since 1987"
-  @me.employed_by = "Qvod Technology"
-  @me.location = "Shenzhen"
-  @me.status = "In a relationship"
-  if @me.save
-    redirect_to /index/
-  else
-    render /about/
-  end
-end
-{% endhighlight %}
+*<center>Your life can be what you want it to be  
+你能够主宰自己的生活</center>*
